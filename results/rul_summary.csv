@@ -1,0 +1,2 @@
+current_cycle,current_soh,degradation_rate,predicted_eol_cycle,predicted_rul,actual_eol_cycle,actual_rul,rul_error,rul_error_percent
+85,88.92866975895417,-0.8145884981874417,97.77351029675106,12.773510296751056,105,20,-7.226489703248944,36.13244851624472
