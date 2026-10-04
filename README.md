@@ -12,6 +12,22 @@
   <img src="https://img.shields.io/badge/Scikit--Learn-Extra%20Trees-orange?logo=scikitlearn">
   <img src="https://img.shields.io/badge/Domain-EV%20%7C%20BMS%20%7C%20CPS-green">
 </p>
+## 🛠️ Tech Stack
+
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+
+### Libraries & Frameworks
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikit-learn&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
+![Joblib](https://img.shields.io/badge/Joblib-3776AB?logo=python&logoColor=white)
+
+### Tools
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 
 # 🔋 EV Battery Digital Twin
 
