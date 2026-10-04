@@ -1,5 +1,20 @@
 # 🔋 EV Battery Digital Twin
 
+### Data-Driven Battery SOH Estimation • Degradation Tracking • RUL Prediction
+
+<p align="center">
+  <img src="images/dashboard.png" alt="EV Battery Digital Twin Dashboard" width="900"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.x-blue?logo=python">
+  <img src="https://img.shields.io/badge/Streamlit-Dashboard-red?logo=streamlit">
+  <img src="https://img.shields.io/badge/Scikit--Learn-Extra%20Trees-orange?logo=scikitlearn">
+  <img src="https://img.shields.io/badge/Domain-EV%20%7C%20BMS%20%7C%20CPS-green">
+</p>
+
+# 🔋 EV Battery Digital Twin
+
 ## Data-Driven EV Battery SOH Monitoring, Degradation Tracking and RUL Prediction
 
 A data-driven, sequential Digital Twin prototype for EV battery health monitoring using recorded battery-cycle data.
